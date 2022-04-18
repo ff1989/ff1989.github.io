@@ -13,7 +13,7 @@ layout: home
 <ul>
 {% for physicist in site.alumni %}
 	<li>
-	  {{ physicist.name }} - {{ physicist.position }}
+	  {{ physicist.name }}, {{ physicist.from }}-{{ physicist.to }}, {{ physicist.position }}
   	<!-- <p>{{ physicist.content | markdownify }}</p> -->
 	</li>
 {% endfor %}

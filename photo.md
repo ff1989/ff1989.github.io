@@ -1,5 +1,4 @@
 ---
-# layout: home
 layout: page
 # title: Фото и видео
 permalink: /photo/
