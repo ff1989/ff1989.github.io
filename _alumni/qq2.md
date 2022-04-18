@@ -1,5 +1,5 @@
 ---
 name: Маня Крутая
-position: старший научный сотрудник
+position: страшный научный сотрудник
 ---
 Jane has worked on Jekyll for the past *five years*.
